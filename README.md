@@ -5,7 +5,13 @@
 
 - 🔭 I’m currently working on *MERN STACK*
 
-<h3 align="left">Connect with me: debas1118@gmail.com</h3>
+- 📫 How to reach me **debas1118@gmail.com**
+
+<h3 align="left">Connect with me: </h3>
+<p align="left">
+<a href="https://twitter.com/@debajit018" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@debajit018" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/debajit-das-537763219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="debajit-das-537763219" height="30" width="40" /></a>
+</p>
 <p align="left">
 </p>
 
