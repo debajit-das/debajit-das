@@ -1,12 +1,9 @@
 <h1 align="center">Hi, I'm Debajit Das</h1>
-<img align = "right" alt = "coding" width = "400" src = "https://storage.googleapis.com/britech-blog-engineer-bri-3/2022/1/2022-01-11-102039576949-9d8e4389-8333-43df-8777-bc68e7f9ce00.jpg">
 <h3 align="center">A passionate MERN Stack Web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debajit-das&label=Profile%20views&color=0e75b6&style=flat" alt="debajit-das" /> </p>
 
-- 🔭 I’m currently working on *Human Pose Estimation*
-
-- 🌱 I’m currently learning *MERN, Data Science*
+- 🔭 I’m currently working on *MERN STACK WEB DEVELOPER*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
